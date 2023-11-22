@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441766169005",
+    "project_id": "governor-71296",
+    "storage_bucket": "governor-71296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441766169005:android:c99ef704a9a744fae47924",
+        "android_client_info": {
+          "package_name": "com.imagine.governor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSbQJ7rPvwsbOxRfYgYCcy5hiSwWj-sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

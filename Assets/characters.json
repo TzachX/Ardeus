@@ -1,0 +1,24 @@
+{
+  "Characters": [
+    {
+      "Name": "General Judge",
+      "SpriteName": "minister_defense_sprite",
+      "CharacterID": "MinisterDefence"
+    },
+    {
+      "Name": "Merchant Harrison",
+      "SpriteName": "minister_commerce_sprite",
+      "CharacterID": "MinisterCommerce"
+    },
+    {
+      "Name": "Councilor Bennett",
+      "SpriteName": "minister_inner_sprite",
+      "CharacterID": "MinisterInner"
+    },
+    {
+      "Name": "Ambassador Rodriguez",
+      "SpriteName": "minister_foreign_sprite",
+      "CharacterID": "MinisterForeign"
+    }
+  ]
+}

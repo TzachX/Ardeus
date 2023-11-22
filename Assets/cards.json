@@ -1,0 +1,136 @@
+{
+  "Cards": [
+    {
+      "Advice": "Increase military spending to strengthen national defense.",
+      "Responses": {
+        "Item1": {
+          "Content": "Allocate more funds to the military!",
+          "Effects": {
+            "Nation": -10,
+            "Army": -20,
+            "Economy": -5
+          }
+        },
+        "Item2": {
+          "Content": "Our economy can't bear the burden; find alternative solutions.",
+          "Effects": {
+            "Nation": 5,
+            "Army": -10,
+            "Economy": 10
+          }
+        }
+      },
+      "CharacterID": "MinisterDefence"
+    },
+    {
+      "Advice": "Promote economic reforms for a stronger nation.",
+      "Responses": {
+        "Item1": {
+          "Content": "Implement the reforms immediately!",
+          "Effects": {
+            "Nation": 10,
+            "Army": -5,
+            "Economy": -15
+          }
+        },
+        "Item2": {
+          "Content": "The current system works; no need for changes.",
+          "Effects": {
+            "Nation": -5,
+            "Army": 5,
+            "Economy": 10
+          }
+        }
+      },
+      "CharacterID": "MinisterCommerce"
+    },
+    {
+      "Advice": "Investigate mysterious disappearances in the inner city.",
+      "Responses": {
+        "Item1": {
+          "Content": "Conduct a thorough investigation!",
+          "Effects": {
+            "Nation": -5,
+            "Army": -10,
+            "Economy": 5
+          }
+        },
+        "Item2": {
+          "Content": "Ignore the issue; we have more pressing matters.",
+          "Effects": {
+            "Nation": 5,
+            "Army": 10,
+            "Economy": -5
+          }
+        }
+      },
+      "CharacterID": "MinisterInner"
+    },
+    {
+      "Advice": "Forge alliances with neighboring nations for mutual benefits.",
+      "Responses": {
+        "Item1": {
+          "Content": "Diplomacy is the key to a prosperous future!",
+          "Effects": {
+            "World": 10,
+            "Army": -5,
+            "Economy": 5
+          }
+        },
+        "Item2": {
+          "Content": "Focus on strengthening our borders first.",
+          "Effects": {
+            "World": -5,
+            "Army": 10,
+            "Economy": -5
+          }
+        }
+      },
+      "CharacterID": "MinisterForeign"
+    },
+    {
+      "Advice": "Launch a festival to boost national morale.",
+      "Responses": {
+        "Item1": {
+          "Content": "A festival will lift the spirits of the nation!",
+          "Effects": {
+            "Nation": 10,
+            "Army": -5,
+            "Economy": -5
+          }
+        },
+        "Item2": {
+          "Content": "We can't spare the resources for festivities.",
+          "Effects": {
+            "Nation": -10,
+            "Army": 5,
+            "Economy": 5
+          }
+        }
+      },
+      "CharacterID": "MinisterCommerce"
+    },
+    {
+      "Advice": "Initiate peace talks with a long-time rival.",
+      "Responses": {
+        "Item1": {
+          "Content": "Diplomacy is the path to lasting peace!",
+          "Effects": {
+            "World": 10,
+            "Army": -10,
+            "Economy": -5
+          }
+        },
+        "Item2": {
+          "Content": "We can't trust them; focus on military preparedness.",
+          "Effects": {
+            "World": -10,
+            "Army": 10,
+            "Economy": 5
+          }
+        }
+      },
+      "CharacterID": "MinisterForeign"
+    }
+  ]
+}
